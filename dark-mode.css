@@ -301,13 +301,7 @@ h1 {
     }
 }
 
-h3 {
-    margin-top: 70px;
-     margin-left: 648px;
-    color: aliceblue;
-    font-weight: 800;
-    
-}
+
 button {
     background-color:beige;
     color: black;
@@ -321,6 +315,8 @@ button {
     font-size: 20px;
     text-decoration: blink;
     z-index: 3;
+    margin-top: 70px;
+    transition: 3s;
   
 
    

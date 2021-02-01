@@ -299,10 +299,7 @@ h1 {
     }
 }
 
-h3 {
-    margin-top: 70px;
-     margin-left: 648px;
-}
+
 button {
     background-color: black;
     color: aliceblue;
@@ -315,6 +312,7 @@ button {
     border-radius: 30%;
      outline: none;
     z-index: 3;
+    margin-top: 60px;
 
    
 }
